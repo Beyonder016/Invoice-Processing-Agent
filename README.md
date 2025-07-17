@@ -4,8 +4,6 @@
 
 ## **📊 Project Overview**
 
-https://github.com/user-attachments/assets/856c2f58-9a35-4979-b0da-cc5c10d36322
-
 This repository contains a **fully automated Invoice Processing Workflow built in n8n**.
 
 ### **Features:**
@@ -18,10 +16,13 @@ This repository contains a **fully automated Invoice Processing Workflow built i
 ---
 
 ## **🎥 Demo Video**
+
+https://github.com/user-attachments/assets/856c2f58-9a35-4979-b0da-cc5c10d36322
+
 ---
 
 ## **🗺️ Workflow Diagram**
-
+<img width="1610" height="831" alt="Image" src="https://github.com/user-attachments/assets/da417c18-a8d2-4cb8-9da9-67124f4b1f8d" />
 ---
 
 ## **⚙️ How It Works**
