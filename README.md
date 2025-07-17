@@ -1,4 +1,4 @@
-# 🧾m Invoice Processing Automation with n8n
+# Invoice Processing Automation with n8n
 
 ---
 
